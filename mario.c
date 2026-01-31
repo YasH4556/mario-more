@@ -2,7 +2,7 @@
 
 int main(){
 
-    //Input Area
+//Input Area
     int n;
 printf("Choose a positive integer from 1 to 8: ");
 scanf("%d", &n);
